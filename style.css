@@ -1,0 +1,21 @@
+.main {
+    margin-top: 10%;
+}
+.Imoge {
+    margin-top: 20px;
+}
+html, body {
+    width: auto;
+    overflow-x: hidden;
+}
+body {
+    position: relative;
+}
+.arrow {
+    height: 800px;
+    width: 100%;
+}
+.logo {
+    height: 300px;
+    width: 100%;
+}
